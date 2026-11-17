@@ -1,1 +1,2 @@
-step,images,minutes,note
+﻿step,images,minutes,note
+gold_manual,4,20,"Gán tay 4 ảnh gold trong CVAT theo guideline v1.0, không dùng model"
