@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: Fat137
 - Repo bài nộp (URL): https://github.com/Fat137/K5-L23-Day08-PhamTienPhat-03063-AI-Assisted-Labeling
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): c1b56c6
 - Máy: Windows 11, không có GPU (PyTorch CPU)
 - CVAT (Docker): v2.74.1
 
