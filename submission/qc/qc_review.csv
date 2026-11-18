@@ -1,0 +1,10 @@
+﻿image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,"AI-assist, 03063 xác nhận","không thấy lỗi rõ; vật ở xa bên trái (#9, #18 truck) quá nhỏ để chắc lớp"
+img_006.jpg,,khong,"AI-assist, 03063 xác nhận","hàng xe máy đỗ gần camera gán từng xe, box chồng nhau hợp lệ"
+img_013.jpg,155,sai_lop,"AI-assist, 03063 xác nhận","xe buýt đỏ-trắng ở nền bên phải bị gán three_wheeler (YOLOE), phải là bus"
+img_014.jpg,162,thua,"AI-assist, 03063 xác nhận",person cao 19 px < 20 px (guideline 4.1.6)
+img_022.jpg,315,thua,"AI-assist, 03063 xác nhận",car cao 18 px < 20 px ở cuối đường (guideline 4.1.6)
+img_023.jpg,,khong,"AI-assist, 03063 xác nhận","#322 car bị cắt mép trên chỉ còn 15 px đã tick can_review: ca quy tắc, không tính lỗi"
+img_034.jpg,633,thua,"AI-assist, 03063 xác nhận",motorbike cao 17 px < 20 px
+img_034.jpg,639,thua,"AI-assist, 03063 xác nhận",person cao 16 px < 20 px
+img_034.jpg,643,thua,"AI-assist, 03063 xác nhận",motorbike cao 18 px < 20 px
